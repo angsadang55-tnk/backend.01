@@ -1,1 +1,7 @@
 print('hello python')
+print('Angsadang jangkramol')
+print('19')
+print('apple')
+print('14')
+print('67319010055')
+print('sleep')
